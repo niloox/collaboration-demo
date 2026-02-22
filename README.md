@@ -8,4 +8,5 @@ This project is used to practice Git and GitHub collaboration workflows.
 - Submit a pull request
 
 ## Rules
--please do not use ai in your code
+- please do not use ai in your code.
+- this includes all forms of chatbots.
